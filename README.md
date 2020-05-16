@@ -1,0 +1,2 @@
+# Profiling of profitable applications on Google Play and App Store.
+In this project our aim is to profile the most profitable apps on Google Play and App Store, working as a Data Analyst for a company which builds Android and iOS mobile apps and make them available on Google Play and App Store it will be profitable to know that which kind of apps attract more users and incorporate those features in our company apps, so that more and more user will install apps and engage with in-app adds and company can generate more revenue with these in-app adds.
